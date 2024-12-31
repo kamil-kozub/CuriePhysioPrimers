@@ -1,0 +1,137 @@
+# Wprowadzenie do hormonów
+
+## Definicja hormonów
+
+Hormony to chemiczne przekaźniki produkowane przez gruczoły dokrewne. Regulują funkcje fizjologiczne w narządach docelowych poprzez łączenie się z receptorami. Działają w niskich stężeniach i są niezbędne do utrzymania homeostazy.
+
+## Klasyfikacja hormonów
+
+Hormony dzielimy na trzy główne grupy w zależności od ich budowy chemicznej:
+
+1. **Hormony peptydowe**
+    - **Przykłady:** insulina, glukagon.
+    - **Charakterystyka:**
+        - Składają się z krótkich lub długich łańcuchów aminokwasów.
+        - Są rozpuszczalne w wodzie, działają na receptory błonowe komórek docelowych.
+        - Efekty działania są szybkie, ale krótkotrwałe.
+
+2. **Hormony steroidowe**
+    - **Przykłady:** kortyzol, estrogeny, testosteron.
+    - **Charakterystyka:**
+        - Pochodzą od cholesterolu.
+        - Rozpuszczalne w lipidach, mogą przenikać przez błonę komórkową i łączyć się z receptorami wewnątrzkomórkowymi.
+        - Działanie trwa dłużej, ponieważ wpływają na ekspresję genów.
+
+3. **Pochodne tyrozyny**
+    - **Przykłady:** tyroksyna (T4), adrenalina.
+    - **Charakterystyka:**
+        - Powstają z aminokwasu tyrozyny.
+        - Mogą mieć właściwości zarówno hormonów steroidowych (tyroksyna), jak i peptydowych (adrenalina).
+
+#### Przykład działania hormonów:
+- Insulina (hormon peptydowy) obniża poziom glukozy we krwi, zwiększając jej transport do komórek.
+- Kortyzol (hormon steroidowy) reguluje metabolizm w odpowiedzi na stres.
+- Tyroksyna (pochodna tyrozyny) zwiększa tempo metabolizmu komórkowego.
+
+## Mechanizmy działania hormonów, receptory i transport we krwi
+
+### 1. Mechanizmy działania hormonów
+
+Hormony działają na komórki docelowe poprzez interakcję z receptorami. Istnieją dwa główne mechanizmy działania hormonów:
+
+1. **Hormony hydrofilowe (np. peptydowe, adrenalina):**
+    - Działają na receptory **błonowe** na powierzchni komórki.
+    - **Mechanizm działania:**
+        - Przyłączenie hormonu do receptora aktywuje przekaźniki wtórne (np. cAMP, IP3).
+        - Przekaźniki wtórne aktywują enzymy lub szlaki sygnałowe w komórce.
+        - Efekt jest szybki, np. regulacja metabolizmu glukozy przez insulinę.
+
+2. **Hormony lipofilowe (np. steroidowe, tyroksyna):**
+    - Przenikają przez błonę komórkową i łączą się z receptorami **wewnątrzkomórkowymi** (cytoplazmatycznymi lub jądrowymi).
+    - **Mechanizm działania:**
+        - Kompleks hormon-receptor działa jako czynnik transkrypcyjny.
+        - Zmienia ekspresję genów i syntezę białek.
+        - Efekt jest wolniejszy, ale długotrwały, np. rozwój tkanek pod wpływem testosteronu.
+
+### 2. Receptory hormonów
+
+Receptory dla hormonów dzielą się na:
+
+- **Receptory błonowe:**
+    - Wiążą hormony hydrofilowe.
+    - **Przykłady:** receptor insuliny, receptor adrenergiczny (dla adrenaliny).
+
+- **Receptory cytoplazmatyczne i jądrowe:**
+    - Wiążą hormony lipofilowe.
+    - **Przykłady:** receptor kortyzolu, receptor tyroksyny.
+
+**Specyfika receptorów:**
+- Receptory są specyficzne dla określonych hormonów (klucz-pasuje-do-zamka).
+- **Regulacja receptorów:**
+    - **Up-regulacja:** Zwiększenie liczby receptorów w odpowiedzi na niski poziom hormonu.
+    - **Down-regulacja:** Zmniejszenie liczby receptorów przy wysokim stężeniu hormonu.
+
+### 3. Transport hormonów we krwi
+
+Hormony są transportowane do tkanek docelowych przez układ krwionośny.
+
+**Formy transportu:**
+- **Hormony wolne:**
+    - Głównie hormony peptydowe.
+    - Rozpuszczają się w osoczu.
+- **Hormony związane z białkami:**
+    - Głównie hormony steroidowe i tarczycy.
+    - Wiążą się z białkami nośnikowymi, takimi jak albuminy czy globuliny.
+    - **Przykład:** Tyroksyna jest transportowana przez globulinę wiążącą tyroksynę (TBG).
+
+**Znaczenie białek transportowych:**
+- Chronią hormony przed degradacją.
+- Regulują ich dostępność dla receptorów.
+
+### Podsumowanie:
+
+- Hormony hydrofilowe działają szybko poprzez receptory błonowe i przekaźniki wtórne.
+- Hormony lipofilowe przenikają przez błonę i wpływają na ekspresję genów.
+- Transport we krwi może być w formie wolnej lub związanej z białkami, co wpływa na czas działania hormonu.
+
+## Przegląd głównych gruczołów i hormonów
+
+### 1. Podział gruczołów dokrewnych
+
+Gruczoły dokrewne są odpowiedzialne za wydzielanie hormonów bezpośrednio do krwi. Główne gruczoły dokrewne to:
+
+- **Przysadka mózgowa** (przedni i tylny płat)
+- **Tarczyca**
+- **Przytarczyce**
+- **Nadnercza** (kora i rdzeń)
+- **Trzustka** (część dokrewna)
+- **Gonady** (jajniki i jądra)
+- **Szyszynka**
+
+### 2. Główne gruczoły i wydzielane hormony
+
+| Gruczoł           | Hormony                                                         | Główne funkcje                                   |
+|--------------------|----------------------------------------------------------------|-------------------------------------------------|
+| Przysadka mózgowa | Hormon wzrostu (GH), Prolaktyna, Hormony tropowe (TSH, ACTH, FSH, LH), ADH, oksytocyna | Wzrost i metabolizm, Regulacja innych gruczołów dokrewnych, Gospodarka wodna (ADH), poród i laktacja |
+| Tarczyca          | Tyroksyna (T4), Trójjodotyronina (T3), Kalcytonina             | Regulacja metabolizmu, Obniżanie poziomu wapnia we krwi (kalcytonina) |
+| Przytarczyce      | Parathormon (PTH)                                             | Regulacja poziomu wapnia i fosforanów           |
+| Nadnercza         | Kortyzol, Aldosteron, Adrenalina, noradrenalina               | Reakcja na stres (kortyzol, adrenalina), Regulacja ciśnienia krwi (aldosteron) |
+| Trzustka          | Insulina, Glukagon                                           | Regulacja poziomu glukozy we krwi               |
+| Jajniki           | Estrogeny, Progesteron                                       | Regulacja cyklu miesiączkowego, Przygotowanie do ciąży |
+| Jądra             | Testosteron                                                  | Rozwój cech płciowych męskich, Produkcja plemników |
+| Szyszynka         | Melatonina                                                   | Regulacja rytmu dobowego                        |
+
+### 3. Przykładowe funkcje hormonalne
+
+- **Kortyzol:** Wzmacnia reakcję na stres, zwiększa poziom glukozy we krwi, działa przeciwzapalnie.
+- **Insulina:** Obniża poziom glukozy we krwi, ułatwiając jej transport do komórek.
+- **Tyroksyna (T4):** Przyspiesza metabolizm w komórkach.
+
+### 4. Mechanizmy regulacji
+
+- Hormony działają na zasadzie sprzężenia zwrotnego (np. podwyższony poziom T3 i T4 hamuje wydzielanie TSH przez przysadkę).
+- Hormony tropowe (TSH, ACTH, FSH, LH) kontrolują aktywność innych gruczołów dokrewnych.
+
+### Podsumowanie:
+
+Gruczoły dokrewne pełnią kluczową rolę w regulacji procesów metabolicznych, wzrostu, rozwoju i utrzymania homeostazy w organizmie. Wydzielane hormony współpracują, tworząc precyzyjne mechanizmy kontroli.
